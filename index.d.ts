@@ -1,3 +1,2 @@
-/**
- * Created by marcel on 22.01.17.
- */
+import * as alias from "./declare";
+export = alias;

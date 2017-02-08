@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": ["es5", "es2015.promise", "es2015.symbol"],
+    "outDir": "out",
+    "declaration": true
+  },
+  "files": [
+    "declare.d.ts",
+    "index.d.ts"
+  ]
+}

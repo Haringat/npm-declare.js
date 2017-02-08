@@ -1,0 +1,6 @@
+{
+  "name": "declare.js",
+  "main": "index.d.ts",
+  "version": "0.0.8",
+  "homepage": "https://github.com/doug-martin/declare.js"
+}
